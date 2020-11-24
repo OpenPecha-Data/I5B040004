@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ7729
   title: བློ་རིགས་ཀྱི་རྣམ་གཞག་ཉེར་མཁོ་ཀུན་བཏུས
-  volume: ''
+  volume:
+    3db9375165274bcd9efcdf0f563c5343:
+      image_group_id: I1KG2255
+      title: Volume 1 of blo rigs gi rnam gzhag nyer mkho kun btus
+      volume_number: 1
+      total_pages: 342
   author: ''
+ebook_metadata:
+  title: བློ་རིགས་ཀྱི་རྣམ་གཞག་ཉེར་མཁོ་ཀུན་བཏུས
+  author: ''
+  sku: P007059
+  cover: cover.jpg
+  layers:
+  - pagination
