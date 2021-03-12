@@ -5,11 +5,12 @@ source_metadata:
   title: བློ་རིགས་ཀྱི་རྣམ་གཞག་ཉེར་མཁོ་ཀུན་བཏུས
   author: ''
   volumes:
-    c2535b27055444cd8bb4014adace29fd:
+    3db9375165274bcd9efcdf0f563c5343:
       image_group_id: I1KG2255
-      title: ''
+      title: Volume 1 of blo rigs gi rnam gzhag nyer mkho kun btus
       volume_number: 1
       total_pages: 342
+      base_file: v001.txt
 ebook_metadata:
   title: བློ་རིགས་ཀྱི་རྣམ་གཞག་ཉེར་མཁོ་ཀུན་བཏུས
   author: ''
